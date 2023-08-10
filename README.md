@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @consoleLog7
 - 👀 I’m interested in; 🧮 data science, 👨‍💼 business, 🥌 curling, 🧳 travel, 💻 technology, and ⛳️ golf
-- 📚 I'm a second year university student studying business and computer science
+- 📚 I'm a third year university student studying business and computer science
 - 🐍 Although Python is my language of choice, I also know Java, JavaScript, HTML, and C++
 - 📫 How to reach me: info@curldata.ca
 
