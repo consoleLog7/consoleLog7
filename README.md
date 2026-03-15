@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @consoleLog7
-- 📚 I'm a fourth year university student studying business technology👨‍💼💻
 - 👀 I’m interested in; 🧮 data analytics, ⏳ process automation, 💻 technology, 🥌 curling, 🧳 travel, and ⛳️ golf
+- 📚 I'm a university graduate, where I studied business technology👨‍💼💻
 - 🐍 Although Python is my language of choice, I also know JavaScript, Java, HTML, ABAP, VBA, and C++
-- 📫 How to reach me: info@curldata.ca
+- 📫 How to reach me: loganpugsley7@gmail.com
 
 
 <!---
